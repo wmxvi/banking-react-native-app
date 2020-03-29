@@ -1,0 +1,21 @@
+{
+  "common": {
+    "appName": "Bócoin",
+    "currencySymbol": "Bø",
+    "ok": "OK!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "transactionListScreen": {
+    "header": "Your Transactions",
+    "addCoins": "Add Coins"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}
