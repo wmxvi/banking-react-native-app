@@ -1,5 +1,4 @@
-# Bocoin
-Hello, this is my submission for the Bo App Challenge.
+# 
 The application is using TypeScript for most things, MobX state tree (transactions .etc - please note this ONLY applies to API data management, stanreact hooks are used for small components), Detox for E2E tests, Storyshots and Jest for snapshot testing. I also added a search function amongst other things. Running is a simple matter of typing "yarn install" and then "yarn ios" or "yarn android"
 
 # Screenshots
